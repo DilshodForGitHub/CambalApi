@@ -21,4 +21,6 @@ class IsDeveloperRole(BasePermission):
 
 # bot/hdgsajh
 # bot/dkjsahdjhass
+# bot/dkjsahdjhass
+# bot/dkjsahdjhass
 # bot/dasgdjg2sakdjahs
